@@ -1,0 +1,20 @@
+{
+  "name": "reto_kanban_nube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/handlers/card.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Sin pruebas automatizadas por ahora\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranda44/reto_kanban_nube.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
